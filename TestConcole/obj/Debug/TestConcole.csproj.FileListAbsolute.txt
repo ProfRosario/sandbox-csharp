@@ -1,0 +1,6 @@
+c:\users\arduino\documents\visual studio 2015\Projects\TestConcole\TestConcole\bin\Debug\TestConcole.exe.config
+c:\users\arduino\documents\visual studio 2015\Projects\TestConcole\TestConcole\bin\Debug\TestConcole.exe
+c:\users\arduino\documents\visual studio 2015\Projects\TestConcole\TestConcole\bin\Debug\TestConcole.pdb
+c:\users\arduino\documents\visual studio 2015\Projects\TestConcole\TestConcole\obj\Debug\TestConcole.csprojResolveAssemblyReference.cache
+c:\users\arduino\documents\visual studio 2015\Projects\TestConcole\TestConcole\obj\Debug\TestConcole.exe
+c:\users\arduino\documents\visual studio 2015\Projects\TestConcole\TestConcole\obj\Debug\TestConcole.pdb
